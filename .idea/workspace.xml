@@ -1,7 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15da6617-5451-4423-be50-4236c4b0a0cd" name="Default Changelist" comment="" />
+    <list default="true" id="15da6617-5451-4423-be50-4236c4b0a0cd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskblog/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskblog/errors/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskblog/errors/handlers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskblog/main/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskblog/main/routes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskblog/posts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskblog/posts/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskblog/posts/routes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskblog/templates/errors/403.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskblog/templates/errors/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskblog/templates/errors/500.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskblog/templates/reset_request.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskblog/templates/reset_token.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskblog/templates/user_posts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskblog/users/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskblog/users/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskblog/users/routes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskblog/users/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskblog/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskblog/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskblog/forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskblog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskblog/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskblog/routes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskblog/site.db" beforeDir="false" afterPath="$PROJECT_DIR$/flaskblog/site.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskblog/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/flaskblog/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskblog/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/flaskblog/templates/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskblog/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/flaskblog/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskblog/templates/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/flaskblog/templates/post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskblog/templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/flaskblog/templates/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +52,16 @@
     <option name="HIDDEN_KINDS">
       <set />
     </option>
-    <expand />
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="site" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="site [2]" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
     <select />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -29,15 +72,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XqU0wfhzhAoGX8nKAaPbCCT2wz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/flaskblog/static/profile" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -49,11 +98,11 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Projects\flask_project\flaskblog\static\profile" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Projects\flask_project\flaskblog" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\flask_project\flaskblog\static\profile" />
     </key>
   </component>
   <component name="RunManager">
@@ -92,7 +141,7 @@
       <updated>1581772900482</updated>
       <workItem from="1581772925313" duration="6583000" />
       <workItem from="1581936511823" duration="14686000" />
-      <workItem from="1582012669213" duration="1815000" />
+      <workItem from="1582012669213" duration="15664000" />
     </task>
     <servers />
   </component>
@@ -100,6 +149,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="187" height="463" key="HiddenNamespacesPopup" timestamp="1582015081123">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="187" height="463" key="HiddenNamespacesPopup/0.0.1536.864@0.0.1536.864" timestamp="1582015081123" />
     <state x="277" y="74" key="SettingsEditor" timestamp="1581773112085">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -108,6 +161,14 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="470" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1581772931491" />
+    <state x="751" y="46" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1582038727562">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="751" y="46" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.864@0.0.1536.864" timestamp="1582038727562" />
+    <state x="587" y="0" width="738" height="864" key="find.popup" timestamp="1582037993127">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="587" y="0" width="738" height="864" key="find.popup/0.0.1536.864@0.0.1536.864" timestamp="1582037993127" />
     <state x="786" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1581943470337">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
